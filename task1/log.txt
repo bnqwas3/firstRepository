@@ -1,0 +1,6 @@
+commit 2f7b34266e4d281b404a939cdaf916a829402be5
+Author: Dzingala Oleg <bnqwas@gmail.com>
+Date:   Tue Feb 7 12:09:15 2017 +0300
+
+    add .gitignore
+
