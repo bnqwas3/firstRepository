@@ -4,7 +4,7 @@ var articlesService = (function () {
             id: "1",
             title: "Барселона начала войну с туристами: их стало слишком много",
             picture: "s-media-cache-ak0.pinimg.com/originals/e9/9b/6c/e99b6cd899682b51ee9b86b3cf2587b9.png",
-            sumary: "В Барселоне живет 1,6 миллиона человек. В прошлом году город принял 32 миллиона туристов. Понятно, что туристы приносят Барселоне гигантские деньги, но довольны ими далеко не все: приезжие раздувают цены на жилье и еду, из-за них по Барселоне невозможно ни пройти, ни проехать, уровень преступности растет. Мэр города Ада Колау решила вернуть местным жителям Барселону и последовательно вводит все новые меры для того, чтобы ограничить поток туристов.",
+            sumary: "В Барселоне живет 1,6 миллиона человек. В прошлом году город принял 32 миллиона туристов.",
             tags: "туризм, строительство",
             author: "Meduza",
             createdAt: new Date('2017-02-27'),
@@ -17,7 +17,7 @@ var articlesService = (function () {
             sumary: "Эксперименты по отмене налогов приведут к разбалансированности бюджета, заявил на XVIII Ассамблее деловых кругов в Минске заместитель министра финансов Дмитрий Кийко.",
             tags: "Налоги, министерства, предприниматели",
             author: "Александр Ярошевич",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2016-02-27'),
             content: "content"
         },
         {
@@ -27,7 +27,7 @@ var articlesService = (function () {
             sumary: "Рабочая группа при Минтрансе определила, какие местные дороги в стране требуют ремонта — всего насчитали около 6 тысяч километров. Сейчас решается, из каких источников будут финансировать эти работы — средств транспортного налога для этого недостаточно. Об этом AUTO.TUT.BY рассказал первый заместитель министра транспорта и коммуникаций Беларуси Алексей Авраменко.",
             tags: "Авто, дороги, министерства, ГАИ, дороги, Транспорт",
             author: "Юлия Альгерчик",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2047-02-27'),
             content: "content"
         },
         {
@@ -37,7 +37,7 @@ var articlesService = (function () {
             sumary: "Главный тренер минского «Динамо» Крэйг Вудкрофт прокомментировал поражение от ярославского «Локомотива» в пятом матче плей-офф КХЛ (1:4).",
             tags: "Хоккей, КХЛ",
             author: "ХК Динамо-Минск",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2014-02-27'),
             content: "content"
         },
         {
@@ -47,7 +47,7 @@ var articlesService = (function () {
             sumary: "Суд Ляховичского района 28 февраля начал рассмотрение уголовного дела по обвинению бывшего временно исполняющего обязанности начальника ОГАИ Барановичского ГОВД Андрея Волковыцкого в ДТП, которое унесло жизнь 36-летней женщины. На первом заседании выступит сторона обвинения, обвиняемый, а также заслушают свидетелей. Обвиняемый полностью признал свою вину.",
             tags: "ГАИ, ДТП, суды, криминал, правовая информация, Транспорт",
             author: "Станислав Коршунов",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2017-02-21'),
             content: "content"
         },
         {
@@ -57,7 +57,7 @@ var articlesService = (function () {
             sumary: "Беларусь распрощалась с зимой максимально теплой погодой. Как ожидают синоптики, первая декада марта будет соответствовать климатической норме апреля. Но обольщаться не стоит: это месяц переходный, поэтому температура еще может снижаться. Подробнее TUT.BY рассказала главный синоптик Гидромета Светлана Рыбакова.",
             tags: "общество, Погода из первых уст, Погода, климат",
             author: "TUT.BY",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2017-02-23'),
             content: "content"
         },
         {
@@ -67,7 +67,7 @@ var articlesService = (function () {
             sumary: "человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев, человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев",
             tags: "#tag1 #tag2",
             author: "Petr Pavlovich Semedeneev",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2017-02-22'),
             content: "content"
         },
         {
@@ -77,7 +77,7 @@ var articlesService = (function () {
             sumary: "человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев, человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев",
             tags: "#tag1 #tag2",
             author: "Petr Pavlovich Semedeneev",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2017-04-27'),
             content: "content"
         },
 
@@ -88,7 +88,7 @@ var articlesService = (function () {
             sumary: "человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев, человеческой доброте и о том, как сбылась мечта человека из далекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев",
             tags: "#tag1 #tag2",
             author: "Petr Pavlovich Semedeneev",
-            createdAt: new Date('2017-02-27'),
+            createdAt: new Date('2017-02-18'),
             content: "content"
         },
         {
@@ -203,39 +203,50 @@ var articlesService = (function () {
         }
     ];
 
-    var taggs = ["tag1", "tag2", "tag7"];
+    var tags = ["tag1", "tag2", "tag7"];
+
 
     function isArticle(article) {
         if (typeof article.id !== 'string' || article.id.length <= 0) {
+            console.log("1");
             return false;
         }
         if (typeof article.title !== 'string' || article.title.length <= 0 || article.title.length >= 100) {
+            console.log("2");
             return false;
         }
         if (typeof article.picture !== 'string') {
+            console.log("3");
             return false;
         }
         if (typeof article.sumary !== 'string' || article.sumary.length <= 0 || article.sumary.length >= 200) {
+            console.log("4");
             return false;
         }
 
         if (typeof article.author !== 'string') {
+            console.log("5");
             return false;
         }
         if (!(article.createdAt instanceof Date)) {
+            console.log("6");
             return false;
         }
         if (typeof article.content !== 'string' || article.content.length <= 0) {
+            console.log("7");
             return false;
         }
         if (typeof article.tags !== 'string') {
+            console.log("8");
             return false;
         }
-        for (var i = 0; i < taggs.length; i++) {
-            if (article.tags.indexOf(taggs[i]) === -1) {
-                return false;
-            }
-        }
+        // for (var i = 0; i < tags.length; i++) {
+        //     if (article.tags.indexOf(tags[i]) === -1) {
+        //         console.log("9");
+        //         //return false;
+        //     }
+        // }
+        console.log("10");
         return true;
     }
 
@@ -253,8 +264,10 @@ var articlesService = (function () {
         for (var i = 0; i < articles.length; i++) {
             if (articles[i].id === id) {
                 articles.splice(i, 1);
+                return true;
             }
         }
+        return false;
     }
 
     function editArticle(id, toEdit) {
@@ -265,11 +278,20 @@ var articlesService = (function () {
                 if (toEdit.title != undefined) {
                     article.title = toEdit.title;
                 }
-                if (toEdit.author != undefined) {
-                    article.author = toEdit.author;
+                if(toEdit.sumary != undefined) {
+                    article.sumary = toEdit.sumary;
                 }
-                articles.splice(i, 1, article);
-                return true;
+                if(toEdit.content != undefined) {
+                    article.content = toEdit.content;
+                }
+                if(toEdit.tags != undefined) {
+                    article.tags = toEdit.tags;
+                }
+                if(isArticle(article)){
+                    articles.splice(i, 1, article);
+                    return true;
+                }
+
             }
             return false;
         }
@@ -379,31 +401,204 @@ var articlesService = (function () {
         editArticle: editArticle
     };
 }());
-// console.log("articles: ")
-// console.log(articles);
-// console.log("isArticle: ")
-// console.log(isArticle(articles[2]));
-// console.log("add Article(notArticle): ")
-// console.log(addArticle("1"));
-// var art = {
-//     id: "11",
-//     title: "Новоста",
-//     picture: "http://icon-icons.com/icons2/307/PNG/512/Emoji-Wink-Icon_388.png",
-//     sumary: "человеческой добстыни на границе Идалекой пустыни на границе Индии с Пакистаном.Эта история о приключении казахстанцев",
-//     tags: "#tag1 #tag4 #tag7 #tag6",
-//     author: "Petr Pavlovichv",
-//     createdAt: new Date('2017-02-22'),
-//     content: "content"
-// }
-// console.log("add Article: ")
-// console.log(addArticle(art));
-// console.log("articles: ")
-// console.log(articles);
-// console.log(articles[0]);
-// console.log("TAGS");
-// console.log(containTags(articles[0],["туризм","строительство"]));
-// console.log("Статьи с 2ой по 8ую:");
-// console.log(getArticles(1,7));
-// console.log("Статьи по фильтрам: author:tut.by, tag = Автомобили, ГАИ");
-// console.log(getArticles(0,20,{author: "TUT.BY", tags: ["Автомобили", "ГАИ"]}));
 
+var articleRenderer = (function () {
+    var ARTICLE_TEMPLATE;
+    var ARTICLE_LIST_NODE;
+    var USER = null;
+    function init() {
+        ARTICLE_TEMPLATE = document.querySelector('#template-article-list-item');
+        ARTICLE_LIST_NODE = document.querySelector('#ListOfNews');
+        USER = document.querySelector('#authorized');
+    }
+
+    function insertArticlesInDOM(articles) {
+        var articlesNodes = renderArticles(articles);
+        articlesNodes.forEach(function (node) {
+            ARTICLE_LIST_NODE.appendChild(node);
+        });
+    }
+
+    function removeArticlesFromDom() {
+        ARTICLE_LIST_NODE.innerHTML = '';
+    }
+
+
+    function renderArticles(articles) {
+        return articles.map(function (article) {
+            return renderArticle(article);
+        });
+    }
+
+    function renderArticle(article) {
+        var template = ARTICLE_TEMPLATE;
+        template.content.querySelector('.article-list-item-title').textContent = article.title;
+        template.content.querySelector('.article-list-item-sumary').textContent = article.sumary;
+        template.content.querySelector('.article-list-item-author').textContent = article.author;
+        template.content.querySelector('.article-list-item-date').textContent = formatDate(article.createdAt);
+        template.content.querySelector('.article-list-item-tags').textContent = article.tags;
+        //template.content.querySelector('.article-list-item-content').textContent = article.content;
+
+        return template.content.querySelector('.pieceOfNews').cloneNode(true);
+    }
+
+    function removeArticle(id) {
+        if(!articlesService.removeArticle(id)){
+            return false;
+        }
+        ARTICLE_LIST_NODE.innerHTML = '';
+        insertArticlesInDOM(articlesService.getArticles());
+        return true;
+    }
+
+    function addArticle(article){
+
+        if(!articlesService.addArticle(article)){
+            return false;
+        }
+        ARTICLE_LIST_NODE.innerHTML = '';
+        insertArticlesInDOM(articlesService.getArticles());
+        return true;
+    }
+
+    function editArticle(id, article){
+        if(!articlesService.editArticle(id,article)){
+            return false;
+        }
+        ARTICLE_LIST_NODE.innerHTML = '';
+        insertArticlesInDOM(articlesService.getArticles());
+        return true;
+    }
+
+    function formatDate(d) {
+        return d.getDate() + '/' + (d.getMonth() + 1) + '/' + d.getFullYear() + ' ' +
+            d.getHours() + ':' + d.getMinutes();
+    }
+    function deleteButtons(article){
+
+    }
+    function logOut(){
+        if(USER === null){
+            return false;
+        }
+        USER = null;
+        var elements = document.querySelectorAll(".authorized");
+        Array.prototype.forEach.call( elements, function( node ) {
+            node.parentNode.removeChild( node );
+        });
+        document.querySelector("#authentification").querySelector('a').textContent = "Вход";
+        return true;
+    }
+
+    function logIn(user){
+        if(USER !== null){
+            return false;
+        }
+        USER = user;
+        document.querySelector("#authentification").querySelector('a').textContent = "Выход";
+        var elements = document.querySelectorAll(".buttonInfo");
+
+
+        var newLi = document.createElement('li');
+        newLi.innerHTML = "<b1>" + user.toString() + "</b1>"
+        newLi.className = ".header authorized";
+        document.querySelector(".header").insertBefore(newLi, document.querySelector("#authentification"));
+
+        newLi = document.createElement('li');
+        newLi.innerHTML = '<li class="authorized"><a href="#exit">Добавить новость</a></li>'
+        document.querySelector(".header").insertBefore(newLi,document.querySelector("#authentification"));
+
+
+
+
+        Array.prototype.forEach.call( elements, function( node ) {
+            var newElement = document.createElement('li');
+            var newLink = document.createElement('a');
+            newElement.className = "authorized";
+            newLink.className = "buttonInArticle authorized";
+            newLink.href = "#delete";
+            var liText = document.createTextNode("Удалить");
+            newLink.appendChild(liText);
+
+            newLink.appendChild(liText);
+            node.appendChild(newElement);
+            node.appendChild(newLink);
+
+            newElement = document.createElement('li');
+            newLink = document.createElement('a');
+            newLink.className = "buttonInArticle authorized";
+            newElement.className = "authorized";
+            newLink.href = "#edit";
+            liText = document.createTextNode("Изменить");
+            newLink.appendChild(liText);
+
+            newLink.appendChild(liText);
+            node.appendChild(newElement);
+            node.appendChild(newLink);
+        });
+        return true;
+
+    }
+    return {
+        init: init,
+        insertArticlesInDOM: insertArticlesInDOM,
+        removeArticlesFromDom: removeArticlesFromDom,
+        renderArticle: renderArticle,
+        removeArticle: removeArticle,
+        addArticle: addArticle,
+        editArticle: editArticle,
+        logOut: logOut,
+        logIn: logIn
+    };
+}());
+
+
+document.addEventListener('DOMContentLoaded', startApp);
+
+
+function startApp() {
+    articleRenderer.init();
+    renderArticles();
+}
+
+function renderArticles(skip, top, filter) {
+    articleRenderer.removeArticlesFromDom();
+    var articles = articlesService.getArticles(skip, top, filter);
+    articleRenderer.insertArticlesInDOM(articles);
+}
+
+function addArticle(article){
+    var checker;
+    if(articlesService.addArticle(article)){
+        checker = true;
+        console.log('11');
+        renderArticles();
+        console.log('12');
+    }
+    else{
+        console.log('13');
+        checker = false;
+    }
+    return checker;
+}
+function removeArticle(id){
+    var checker;
+    if(articlesService.removeArticle(id)){
+        checker = true;
+    }else{
+        checker = false;
+    }
+    renderArticles();
+    return checker;
+}
+function editArticle(id, article){
+    var checker;
+    if(articlesService.editArticle(id, article)){
+        renderArticles();
+        checker = true;
+    } else {
+        checker = false;
+    }
+    return checker;
+
+}

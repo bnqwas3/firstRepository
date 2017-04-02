@@ -51,6 +51,7 @@
 .header picture{
     padding:0px 0px 0px 0px;
 }
+
 /* ------------------Фильтр---------------- */
 .filterArea{
     margin: 0 auto; 
@@ -103,7 +104,7 @@
 
 /*------------------------NEWS--------------------------*/
 
-.ListOfNews{
+#ListOfNews{
     margin-bottom:4%;
 }
 
@@ -163,6 +164,21 @@
     float:right;
     background-color:#333333;
 
+}
+
+.buttonInArticle{
+    padding: 10px 10px 10px 10px;
+    display: block;
+    color: rgb(177,177,245);;
+    text-align: center;
+    text-decoration: none;
+    float:right;
+    background-color:#333333;
+
+}
+.buttonInArticle:hover{
+    background-color: #111111;
+    color:rgb(136,136,240);
 }
 .newsParameters li a:hover{
     background-color: #111111;
